@@ -105,7 +105,7 @@ nav {
 #main-content .content {
 	padding: 40px;
 }
-/* secciones */
+/* secciones one*/
 #left-main {
 	width: 10%;
 	height: 300px;
@@ -127,6 +127,35 @@ nav {
 	float: left;
 	margin: 20px auto;
 }
+/* secciones two*/
+#two-content {
+	width: 90%;
+	max-width: 900px;
+	margin: 20px auto;
+
+}
+#noticias-content {
+	width: 30%;
+	height: 300px;
+	background-color: red;
+	float: left;
+	margin: 20px auto;
+}
+#donacion-content {
+	width: 30%;
+	height: 300px;
+	background-color: blue;
+	float: left;
+	margin: 40px 40px 40px 40px;
+}
+#twitter-content {
+	width: 30%;
+	height: 300px;
+	background-color: green;
+	float: left;
+	margin: 20px auto;
+}
+
 /* Actualidad */
 .seccion-actualidad ul {
 	margin: 0;
@@ -135,7 +164,7 @@ nav {
 	padding-right: 20px;
 }
 .seccion-actualidad ul li {
-	line-height: 100px;
+	line-height: 50px;
 }
 /* iconos */
 .icon {
@@ -193,7 +222,7 @@ nav {
     color: white;
     text-align: center;
     padding: 20px;
-	margin-top: 250px;
+	margin-top: 450px;
 }
 #main-footer p {
      margin: 0;
